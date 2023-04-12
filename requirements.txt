@@ -1,4 +1,0 @@
-visdom
-tqdm
-pillow
-numpy
