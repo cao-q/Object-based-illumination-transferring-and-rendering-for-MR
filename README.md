@@ -1,6 +1,16 @@
-# Object-based-Illumination-Transfer
+# Object-based illumination transferring and rendering for applications of mixed reality
 
-This is the official code of the paper Object-based Illumination Transferring and Rendering for Applications of Mixed Reality
+## by Di Xu, Zhen Li, Qi Cao
+
+> These are the source codes for our paper titled "Object-based illumination transferring and rendering for applications of mixed reality" published at _the Visual Computer journal_ in 2022.
+>
+> Welcome to cite our paper. 
+>
+> How to cite our paper: 
+>
+> **D. Xu, Z. Li, and Q. Cao, "Object-based illumination transferring and rendering for applications of mixed reality," _The Visual Computer_, vol. 38, no. 12, pp. 4251-4265, 2022. (https://doi.org/10.1007/s00371-021-02292-2).** 
+>
+
 
 # TODO
 - [x] inference
